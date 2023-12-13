@@ -1,7 +1,0 @@
-#include "monty.h"
-push int
- if i there is no argument given to push,
- printf(L<line_number>: usage: push integer)
-
-  return(EXIT_FAILURE)
-atoi
